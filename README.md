@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Gabriel<br>❤️ I love gaming, reading and technology.<br>🌱 I’m currently learning JS and overall Web development (some other sutff related to classes too).<br>📫 How to reach me: gehartman5@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Working towards your dreams will at least get you somewhere else from where you stand now.<br>🚧 Current Projects: *** RISC-Implementation -> https://github.com/GabHartmann/RISC-Implementation
+#  About Me:
+ Hi, I’m Gabriel<br> I love gaming, reading and technology.<br> I’m currently learning JS and overall Web development (some other sutff related to classes too).<br>📫 How to reach me: gehartman5@gmail.com<br> Pronouns: He/Him<br>
 
 
 ----
@@ -9,7 +9,7 @@
 [![c](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabhartmann) 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/21woff7gcxtdpdn7jaud4v4jq) <br>
 
@@ -27,7 +27,7 @@ Also, feel free to contact me on Discord: ifusiond5 <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabHartmann&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
